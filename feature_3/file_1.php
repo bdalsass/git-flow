@@ -1,0 +1,6 @@
+<?php
+/**
+ * @author bdalsass
+ */
+phpinfo();
+
